@@ -680,6 +680,24 @@
       ],
       "scale": "Even",
       "duration": 3000
+    },
+    {
+      "timestamp": "2024-11-07T17:55:50.131006200+01:00",
+      "winner": [
+        "Dragon",
+        "Bixkog",
+        "hypys",
+        "Spawek"
+      ],
+      "loser": [
+        "goovie",
+        "muhah",
+        "Status",
+        "Vifon",
+        "j"
+      ],
+      "scale": "Advantage",
+      "duration": 2100
     }
   ]
 }
