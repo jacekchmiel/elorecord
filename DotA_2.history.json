@@ -662,6 +662,24 @@
       "scale": "Pwnage",
       "duration": 2700,
       "fake": true
+    },
+    {
+      "timestamp": "2024-11-07T16:01:32.724795200+01:00",
+      "winner": [
+        "hypys",
+        "Status",
+        "Spawek",
+        "Vifon",
+        "j"
+      ],
+      "loser": [
+        "Bixkog",
+        "goovie",
+        "Dragon",
+        "muhah"
+      ],
+      "scale": "Even",
+      "duration": 3000
     }
   ]
 }
