@@ -838,6 +838,27 @@
       ],
       "scale": "Even",
       "duration": 2700
+    },
+    {
+      "timestamp": "2024-11-08T17:20:34.285118400+01:00",
+      "winner": [
+        "Bixkog",
+        "goovie",
+        "Bania",
+        "Dragon",
+        "Bushee",
+        "Spawek"
+      ],
+      "loser": [
+        "muhah",
+        "Ephraim",
+        "Vifon",
+        "j",
+        "Alpinus4",
+        "hypys"
+      ],
+      "scale": "Pwnage",
+      "duration": 1680
     }
   ]
 }
