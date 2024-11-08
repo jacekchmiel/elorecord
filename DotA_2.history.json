@@ -926,6 +926,29 @@
       ],
       "scale": "Even",
       "duration": 2400
+    },
+    {
+      "timestamp": "2024-11-09T00:28:56.113901600+01:00",
+      "winner": [
+        "Status",
+        "Vifon",
+        "Dragon",
+        "hypys",
+        "Spawek",
+        "Alpinus4",
+        "Bushee"
+      ],
+      "loser": [
+        "j",
+        "goovie",
+        "Bania",
+        "Ephraim",
+        "muhah",
+        "Bixkog",
+        "grzybke"
+      ],
+      "scale": "Advantage",
+      "duration": 2400
     }
   ]
 }
