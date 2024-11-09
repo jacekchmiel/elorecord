@@ -995,6 +995,29 @@
       ],
       "scale": "Pwnage",
       "duration": 1680
+    },
+    {
+      "timestamp": "2024-11-09T14:35:47.501759800+01:00",
+      "winner": [
+        "Status",
+        "Spawek",
+        "Bushee",
+        "Ephraim",
+        "j",
+        "Alpinus4",
+        "muhah"
+      ],
+      "loser": [
+        "Bixkog",
+        "Dragon",
+        "grzybke",
+        "goovie",
+        "hypys",
+        "Bania",
+        "Vifon"
+      ],
+      "scale": "Even",
+      "duration": 2880
     }
   ]
 }
