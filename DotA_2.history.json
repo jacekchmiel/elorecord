@@ -1590,6 +1590,24 @@
       ],
       "scale": "Advantage",
       "duration": 2940
+    },
+    {
+      "timestamp": "2025-02-01T11:20:29.078609854+01:00",
+      "winner": [
+        "Status",
+        "hypys",
+        "muhah",
+        "j",
+        "Bixkog"
+      ],
+      "loser": [
+        "Dragon",
+        "Alpinus4",
+        "Spawek",
+        "Ephraim"
+      ],
+      "scale": "Pwnage",
+      "duration": 1620
     }
   ]
 }
