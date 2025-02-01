@@ -1728,6 +1728,26 @@
       ],
       "scale": "Even",
       "duration": 2700
+    },
+    {
+      "timestamp": "2025-02-01T23:01:10.441469548+01:00",
+      "winner": [
+        "Spawek",
+        "hypys",
+        "Alpinus4",
+        "goovie",
+        "Dragon"
+      ],
+      "loser": [
+        "muhah",
+        "j",
+        "Status",
+        "Ephraim",
+        "Bania",
+        "Bixkog"
+      ],
+      "scale": "Pwnage",
+      "duration": 2160
     }
   ]
 }
