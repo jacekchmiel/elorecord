@@ -1886,6 +1886,27 @@
       ],
       "scale": "Even",
       "duration": 2940
+    },
+    {
+      "timestamp": "2025-11-08T00:55:07.273403532+01:00",
+      "winner": [
+        "Spawek",
+        "Ephraim",
+        "Status",
+        "j",
+        "Vifon",
+        "Dragon"
+      ],
+      "loser": [
+        "Alpinus4",
+        "hypys",
+        "goovie",
+        "Bixkog",
+        "grzybke",
+        "muhah"
+      ],
+      "scale": "Pwnage",
+      "duration": 3660
     }
   ]
 }
