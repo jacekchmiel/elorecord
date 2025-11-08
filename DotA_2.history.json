@@ -1970,6 +1970,27 @@
       ],
       "scale": "Even",
       "duration": 3120
+    },
+    {
+      "timestamp": "2025-11-08T16:56:59.484524443+01:00",
+      "winner": [
+        "j",
+        "Vifon",
+        "Spawek",
+        "Dragon",
+        "grzybke",
+        "goovie"
+      ],
+      "loser": [
+        "Status",
+        "hypys",
+        "Alpinus4",
+        "Ephraim",
+        "muhah",
+        "Bixkog"
+      ],
+      "scale": "Advantage",
+      "duration": 3120
     }
   ]
 }
