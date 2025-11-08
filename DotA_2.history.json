@@ -1928,6 +1928,27 @@
       ],
       "scale": "Advantage",
       "duration": 1920
+    },
+    {
+      "timestamp": "2025-11-08T13:39:42.044854040+01:00",
+      "winner": [
+        "goovie",
+        "Spawek",
+        "hypys",
+        "grzybke",
+        "Alpinus4",
+        "Vifon"
+      ],
+      "loser": [
+        "Dragon",
+        "Status",
+        "muhah",
+        "Bixkog",
+        "Ephraim",
+        "j"
+      ],
+      "scale": "Advantage",
+      "duration": 3000
     }
   ]
 }
