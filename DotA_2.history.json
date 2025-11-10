@@ -2212,6 +2212,25 @@
       ],
       "scale": "Even",
       "duration": 2700
+    },
+    {
+      "timestamp": "2025-11-10T13:42:28.922125374+01:00",
+      "winner": [
+        "Dragon",
+        "goovie",
+        "grzybke",
+        "hypys",
+        "Spawek"
+      ],
+      "loser": [
+        "Bixkog",
+        "Status",
+        "Alpinus4",
+        "j",
+        "muhah"
+      ],
+      "scale": "Even",
+      "duration": 2400
     }
   ]
 }
