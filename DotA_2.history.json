@@ -1767,6 +1767,603 @@
       ],
       "scale": "Even",
       "duration": 2400
+    },
+    {
+      "timestamp": "2025-11-07T18:05:59.024936441+01:00",
+      "winner": [
+        "hypys",
+        "goovie",
+        "j",
+        "Status",
+        "Spawek"
+      ],
+      "loser": [
+        "Dragon",
+        "grzybke",
+        "muhah",
+        "Bixkog"
+      ],
+      "scale": "Advantage",
+      "duration": 2220
+    },
+    {
+      "timestamp": "2025-11-07T18:59:24.424332612+01:00",
+      "winner": [
+        "muhah",
+        "hypys",
+        "Bixkog",
+        "Status",
+        "goovie"
+      ],
+      "loser": [
+        "grzybke",
+        "Alpinus4",
+        "Spawek",
+        "Dragon",
+        "j"
+      ],
+      "scale": "Even",
+      "duration": 2040
+    },
+    {
+      "timestamp": "2025-11-07T20:10:06.282924913+01:00",
+      "winner": [
+        "Spawek",
+        "hypys",
+        "goovie",
+        "grzybke",
+        "Dragon"
+      ],
+      "loser": [
+        "j",
+        "Alpinus4",
+        "Bixkog",
+        "Status",
+        "muhah"
+      ],
+      "scale": "Even",
+      "duration": 2220
+    },
+    {
+      "timestamp": "2025-11-07T21:15:13.195657008+01:00",
+      "winner": [
+        "Vifon",
+        "Alpinus4",
+        "muhah",
+        "goovie",
+        "grzybke",
+        "Dragon"
+      ],
+      "loser": [
+        "Spawek",
+        "j",
+        "hypys",
+        "Ephraim",
+        "Bixkog",
+        "Status"
+      ],
+      "scale": "Pwnage",
+      "duration": 2280
+    },
+    {
+      "timestamp": "2025-11-07T22:43:16.504875010+01:00",
+      "winner": [
+        "Spawek",
+        "j",
+        "Alpinus4",
+        "Status",
+        "goovie",
+        "Dragon"
+      ],
+      "loser": [
+        "Vifon",
+        "Ephraim",
+        "Bixkog",
+        "hypys",
+        "grzybke",
+        "muhah"
+      ],
+      "scale": "Advantage",
+      "duration": 2880
+    },
+    {
+      "timestamp": "2025-11-07T23:53:38.580330558+01:00",
+      "winner": [
+        "Spawek",
+        "Ephraim",
+        "Alpinus4",
+        "hypys",
+        "Status",
+        "goovie"
+      ],
+      "loser": [
+        "j",
+        "Vifon",
+        "Bixkog",
+        "grzybke",
+        "muhah",
+        "Dragon"
+      ],
+      "scale": "Even",
+      "duration": 2940
+    },
+    {
+      "timestamp": "2025-11-08T00:55:07.273403532+01:00",
+      "winner": [
+        "Spawek",
+        "Ephraim",
+        "Status",
+        "j",
+        "Vifon",
+        "Dragon"
+      ],
+      "loser": [
+        "Alpinus4",
+        "hypys",
+        "goovie",
+        "Bixkog",
+        "grzybke",
+        "muhah"
+      ],
+      "scale": "Pwnage",
+      "duration": 3660
+    },
+    {
+      "timestamp": "2025-11-08T11:50:00.832367962+01:00",
+      "winner": [
+        "Status",
+        "Bixkog",
+        "Alpinus4",
+        "Dragon",
+        "j",
+        "muhah"
+      ],
+      "loser": [
+        "Ephraim",
+        "goovie",
+        "Vifon",
+        "hypys",
+        "grzybke",
+        "Spawek"
+      ],
+      "scale": "Advantage",
+      "duration": 1920
+    },
+    {
+      "timestamp": "2025-11-08T13:39:42.044854040+01:00",
+      "winner": [
+        "goovie",
+        "Spawek",
+        "hypys",
+        "grzybke",
+        "Alpinus4",
+        "Vifon"
+      ],
+      "loser": [
+        "Dragon",
+        "Status",
+        "muhah",
+        "Bixkog",
+        "Ephraim",
+        "j"
+      ],
+      "scale": "Advantage",
+      "duration": 3000
+    },
+    {
+      "timestamp": "2025-11-08T16:03:36.866495522+01:00",
+      "winner": [
+        "Ephraim",
+        "muhah",
+        "Bixkog",
+        "Dragon",
+        "grzybke",
+        "goovie"
+      ],
+      "loser": [
+        "j",
+        "Status",
+        "Vifon",
+        "Spawek",
+        "hypys",
+        "Alpinus4"
+      ],
+      "scale": "Even",
+      "duration": 3120
+    },
+    {
+      "timestamp": "2025-11-08T16:56:59.484524443+01:00",
+      "winner": [
+        "j",
+        "Vifon",
+        "Spawek",
+        "Dragon",
+        "grzybke",
+        "goovie"
+      ],
+      "loser": [
+        "Status",
+        "hypys",
+        "Alpinus4",
+        "Ephraim",
+        "muhah",
+        "Bixkog"
+      ],
+      "scale": "Advantage",
+      "duration": 3120
+    },
+    {
+      "timestamp": "2025-11-08T20:15:13.875476101+01:00",
+      "winner": [
+        "Bixkog",
+        "Vifon",
+        "Alpinus4",
+        "grzybke",
+        "goovie",
+        "Status"
+      ],
+      "loser": [
+        "Ephraim",
+        "muhah",
+        "j",
+        "Dragon",
+        "Spawek",
+        "hypys"
+      ],
+      "scale": "Pwnage",
+      "duration": 3000
+    },
+    {
+      "timestamp": "2025-11-08T21:44:54.155340359+01:00",
+      "winner": [
+        "Dragon",
+        "Status",
+        "Bixkog",
+        "muhah",
+        "grzybke",
+        "j"
+      ],
+      "loser": [
+        "Ephraim",
+        "goovie",
+        "Spawek",
+        "hypys",
+        "Alpinus4",
+        "Vifon"
+      ],
+      "scale": "Pwnage",
+      "duration": 1860
+    },
+    {
+      "timestamp": "2025-11-08T22:32:10.661058088+01:00",
+      "winner": [
+        "Ephraim",
+        "Alpinus4",
+        "Bixkog",
+        "grzybke",
+        "Dragon",
+        "Status"
+      ],
+      "loser": [
+        "muhah",
+        "goovie",
+        "Spawek",
+        "hypys",
+        "j",
+        "Vifon"
+      ],
+      "scale": "Advantage",
+      "duration": 2040
+    },
+    {
+      "timestamp": "2025-11-08T23:44:28.383814485+01:00",
+      "winner": [
+        "Ephraim",
+        "Bixkog",
+        "Alpinus4",
+        "grzybke",
+        "goovie",
+        "Vifon"
+      ],
+      "loser": [
+        "Dragon",
+        "Status",
+        "muhah",
+        "j",
+        "Spawek",
+        "hypys"
+      ],
+      "scale": "Even",
+      "duration": 3180
+    },
+    {
+      "timestamp": "2025-11-09T12:17:19.719605609+01:00",
+      "winner": [
+        "Bixkog",
+        "goovie",
+        "hypys",
+        "muhah",
+        "Dragon",
+        "Status"
+      ],
+      "loser": [
+        "j",
+        "Spawek",
+        "Vifon",
+        "Ephraim",
+        "Alpinus4",
+        "grzybke"
+      ],
+      "scale": "Even",
+      "duration": 2760
+    },
+    {
+      "timestamp": "2025-11-09T13:05:19.414248017+01:00",
+      "winner": [
+        "Alpinus4",
+        "j",
+        "Spawek",
+        "muhah",
+        "grzybke",
+        "goovie"
+      ],
+      "loser": [
+        "Dragon",
+        "Vifon",
+        "Status",
+        "Ephraim",
+        "Bixkog",
+        "hypys"
+      ],
+      "scale": "Even",
+      "duration": 2280
+    },
+    {
+      "timestamp": "2025-11-09T16:41:26.558281447+01:00",
+      "winner": [
+        "grzybke",
+        "Alpinus4",
+        "muhah",
+        "goovie",
+        "Status"
+      ],
+      "loser": [
+        "Ephraim",
+        "Bixkog",
+        "Spawek",
+        "hypys",
+        "j"
+      ],
+      "scale": "Even",
+      "duration": 2940
+    },
+    {
+      "timestamp": "2025-11-09T17:40:51.762533701+01:00",
+      "winner": [
+        "Ephraim",
+        "Spawek",
+        "hypys",
+        "goovie",
+        "Status"
+      ],
+      "loser": [
+        "Bixkog",
+        "j",
+        "Alpinus4",
+        "muhah",
+        "grzybke"
+      ],
+      "scale": "Advantage",
+      "duration": 2340
+    },
+    {
+      "timestamp": "2025-11-09T18:27:41.877635635+01:00",
+      "winner": [
+        "Ephraim",
+        "goovie",
+        "Status",
+        "Bixkog",
+        "Alpinus4"
+      ],
+      "loser": [
+        "Spawek",
+        "hypys",
+        "muhah",
+        "grzybke",
+        "j"
+      ],
+      "scale": "Pwnage",
+      "duration": 1920
+    },
+    {
+      "timestamp": "2025-11-09T19:26:19.836758925+01:00",
+      "winner": [
+        "Ephraim",
+        "Bixkog",
+        "Alpinus4",
+        "grzybke",
+        "goovie"
+      ],
+      "loser": [
+        "muhah",
+        "j",
+        "Spawek",
+        "Status",
+        "hypys"
+      ],
+      "scale": "Even",
+      "duration": 2640
+    },
+    {
+      "timestamp": "2025-11-10T12:21:48.898856620+01:00",
+      "winner": [
+        "muhah",
+        "j",
+        "Spawek",
+        "Status",
+        "grzybke"
+      ],
+      "loser": [
+        "Dragon",
+        "Bixkog",
+        "Alpinus4",
+        "goovie",
+        "hypys"
+      ],
+      "scale": "Even",
+      "duration": 2700
+    },
+    {
+      "timestamp": "2025-11-10T13:42:28.922125374+01:00",
+      "winner": [
+        "Dragon",
+        "goovie",
+        "grzybke",
+        "hypys",
+        "Spawek"
+      ],
+      "loser": [
+        "Bixkog",
+        "Status",
+        "Alpinus4",
+        "j",
+        "muhah"
+      ],
+      "scale": "Even",
+      "duration": 2400
+    },
+    {
+      "timestamp": "2025-11-10T16:40:01.536620700+01:00",
+      "winner": [
+        "j",
+        "muhah",
+        "goovie",
+        "grzybke",
+        "Spawek"
+      ],
+      "loser": [
+        "Bixkog",
+        "Status",
+        "Alpinus4",
+        "Dragon",
+        "hypys"
+      ],
+      "scale": "Advantage",
+      "duration": 2160
+    },
+    {
+      "timestamp": "2025-11-10T17:35:05.274278078+01:00",
+      "winner": [
+        "Bixkog",
+        "Status",
+        "Alpinus4",
+        "goovie",
+        "grzybke"
+      ],
+      "loser": [
+        "Dragon",
+        "hypys",
+        "j",
+        "muhah",
+        "Spawek"
+      ],
+      "scale": "Advantage",
+      "duration": 2640
+    },
+    {
+      "timestamp": "2025-11-10T19:22:45.516597357+01:00",
+      "winner": [
+        "Dragon",
+        "goovie",
+        "j",
+        "grzybke",
+        "Spawek"
+      ],
+      "loser": [
+        "Bixkog",
+        "Status",
+        "Alpinus4",
+        "muhah",
+        "hypys"
+      ],
+      "scale": "Even",
+      "duration": 1800
+    },
+    {
+      "timestamp": "2025-11-10T20:26:13.892215604+01:00",
+      "winner": [
+        "Bixkog",
+        "muhah",
+        "hypys",
+        "Status",
+        "Dragon"
+      ],
+      "loser": [
+        "Alpinus4",
+        "grzybke",
+        "goovie",
+        "Spawek",
+        "j"
+      ],
+      "scale": "Advantage",
+      "duration": 2400
+    },
+    {
+      "timestamp": "2025-11-10T22:41:53.091860713+01:00",
+      "winner": [
+        "Spawek",
+        "j",
+        "Alpinus4",
+        "goovie",
+        "muhah"
+      ],
+      "loser": [
+        "grzybke",
+        "Status",
+        "hypys",
+        "Dragon",
+        "Bixkog"
+      ],
+      "scale": "Pwnage",
+      "duration": 1800
+    },
+    {
+      "timestamp": "2025-11-10T23:37:18.003868060+01:00",
+      "winner": [
+        "goovie",
+        "Status",
+        "hypys",
+        "Dragon",
+        "Bixkog"
+      ],
+      "loser": [
+        "Spawek",
+        "j",
+        "Alpinus4",
+        "muhah",
+        "grzybke"
+      ],
+      "scale": "Advantage",
+      "duration": 2640
+    },
+    {
+      "timestamp": "2025-11-11T11:55:04.812691706+01:00",
+      "winner": [
+        "Spawek",
+        "j",
+        "goovie",
+        "grzybke",
+        "muhah"
+      ],
+      "loser": [
+        "Status",
+        "Dragon",
+        "hypys",
+        "Bixkog",
+        "Alpinus4"
+      ],
+      "scale": "Even",
+      "duration": 3300
     }
   ]
 }
