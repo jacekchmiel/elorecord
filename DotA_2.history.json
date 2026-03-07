@@ -2502,6 +2502,26 @@
       ],
       "scale": "Pwnage",
       "duration": 2520
+    },
+    {
+      "timestamp": "2026-03-07T16:02:27.193028836+01:00",
+      "winner": [
+        "muhah",
+        "Alpinus4",
+        "Bushee",
+        "goovie",
+        "Spawek"
+      ],
+      "loser": [
+        "Bixkog",
+        "Dragon",
+        "Ephraim",
+        "j",
+        "hypys",
+        "Status"
+      ],
+      "scale": "Even",
+      "duration": 8700
     }
   ]
 }
