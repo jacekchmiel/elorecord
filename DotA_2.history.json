@@ -2641,6 +2641,26 @@
       ],
       "scale": "Even",
       "duration": 5160
+    },
+    {
+      "timestamp": "2026-03-08T17:57:10.120113578+01:00",
+      "winner": [
+        "Bixkog",
+        "Bushee",
+        "Dragon",
+        "Ephraim",
+        "hypys",
+        "goovie"
+      ],
+      "loser": [
+        "Alpinus4",
+        "muhah",
+        "j",
+        "Status",
+        "Spawek"
+      ],
+      "scale": "Even",
+      "duration": 3540
     }
   ]
 }
