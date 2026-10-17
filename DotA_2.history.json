@@ -2856,20 +2856,8 @@
       "scale": "Even",
       "duration": 600,
       "tags": {
-        "j": {
-          "role": "Carry"
-        },
-        "Bushee": {
-          "role": "Carry"
-        },
-        "muhah": {
-          "role": "Core"
-        },
         "goovie": {
           "role": "Core"
-        },
-        "Status": {
-          "role": "Support"
         },
         "Spawek": {
           "role": "Support"
@@ -2877,20 +2865,150 @@
         "Dragon": {
           "role": "Support"
         },
-        "Bixkog": {
-          "role": "Core"
-        },
         "Alpinus4": {
           "role": "Support"
         },
         "grzybke": {
           "role": "Carry"
         },
-        "Vifon": {
+        "muhah": {
           "role": "Core"
         },
         "Terka": {
           "role": "Carry"
+        },
+        "Status": {
+          "role": "Support"
+        },
+        "Bixkog": {
+          "role": "Core"
+        },
+        "j": {
+          "role": "Carry"
+        },
+        "Vifon": {
+          "role": "Core"
+        },
+        "Bushee": {
+          "role": "Carry"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-10-17T21:33:29.031247132+02:00",
+      "winner": [
+        "Vifon",
+        "Bushee",
+        "Status",
+        "muhah",
+        "j",
+        "Alpinus4"
+      ],
+      "loser": [
+        "Dragon",
+        "Spawek",
+        "Terka",
+        "goovie",
+        "grzybke",
+        "Bixkog"
+      ],
+      "scale": "Even",
+      "duration": 1200,
+      "tags": {
+        "Vifon": {
+          "role": "Carry"
+        },
+        "Status": {
+          "role": "Support"
+        },
+        "j": {
+          "role": "Core"
+        },
+        "Terka": {
+          "role": "Carry"
+        },
+        "Bixkog": {
+          "role": "Carry"
+        },
+        "goovie": {
+          "role": "Core"
+        },
+        "grzybke": {
+          "role": "Core"
+        },
+        "Alpinus4": {
+          "role": "Support"
+        },
+        "muhah": {
+          "role": "Core"
+        },
+        "Spawek": {
+          "role": "Support"
+        },
+        "Dragon": {
+          "role": "Support"
+        },
+        "Bushee": {
+          "role": "Carry"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-10-17T21:34:28.143220298+02:00",
+      "winner": [
+        "j",
+        "muhah",
+        "Vifon",
+        "Bushee",
+        "goovie",
+        "grzybke"
+      ],
+      "loser": [
+        "Status",
+        "Alpinus4",
+        "Terka",
+        "Dragon",
+        "Spawek",
+        "Bixkog"
+      ],
+      "scale": "Advantage",
+      "duration": 1800,
+      "tags": {
+        "Status": {
+          "role": "Carry"
+        },
+        "grzybke": {
+          "role": "Carry"
+        },
+        "Alpinus4": {
+          "role": "Core"
+        },
+        "goovie": {
+          "role": "Core"
+        },
+        "Dragon": {
+          "role": "Core"
+        },
+        "Spawek": {
+          "role": "Support"
+        },
+        "Bixkog": {
+          "role": "Support"
+        },
+        "Vifon": {
+          "role": "Support"
+        },
+        "muhah": {
+          "role": "Core"
+        },
+        "Terka": {
+          "role": "Carry"
+        },
+        "Bushee": {
+          "role": "Carry"
+        },
+        "j": {
+          "role": "Support"
         }
       }
     }
