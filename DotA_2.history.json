@@ -2834,37 +2834,92 @@
       "scale": "Even",
       "duration": 3720,
       "tags": {
-        "Bixkog": {
+        "Bania": {
           "role": "Support"
         },
-        "hypys": {
+        "Dragon": {
           "role": "Core"
         },
         "Spawek": {
           "role": "Support"
         },
-        "grzybke": {
-          "role": "Support"
-        },
         "j": {
-          "role": "Core"
-        },
-        "Bania": {
-          "role": "Support"
-        },
-        "Status": {
-          "role": "Carry"
-        },
-        "Dragon": {
           "role": "Core"
         },
         "Alpinus4": {
           "role": "Support"
         },
+        "Bixkog": {
+          "role": "Support"
+        },
+        "Status": {
+          "role": "Carry"
+        },
+        "hypys": {
+          "role": "Core"
+        },
+        "goovie": {
+          "role": "Core"
+        },
+        "grzybke": {
+          "role": "Support"
+        },
         "muhah": {
+          "role": "Carry"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-11-11T19:44:58.373679312+01:00",
+      "winner": [
+        "Dragon",
+        "j",
+        "grzybke",
+        "Status",
+        "Alpinus4",
+        "goovie"
+      ],
+      "loser": [
+        "Bania",
+        "muhah",
+        "hypys",
+        "Spawek",
+        "Bixkog"
+      ],
+      "scale": "Advantage",
+      "duration": 4920,
+      "tags": {
+        "muhah": {
+          "role": "Core"
+        },
+        "Spawek": {
           "role": "Carry"
         },
         "goovie": {
+          "role": "Carry"
+        },
+        "grzybke": {
+          "role": "Core"
+        },
+        "Bixkog": {
+          "role": "Support"
+        },
+        "j": {
+          "role": "Support"
+        },
+        "Dragon": {
+          "role": "Support"
+        },
+        "Bania": {
+          "role": "Support"
+        },
+        "Status": {
+          "role": "Core"
+        },
+        "Alpinus4": {
+          "role": "Support"
+        },
+        "hypys": {
           "role": "Core"
         }
       }
