@@ -36,6 +36,26 @@
       ],
       "scale": "Even",
       "duration": 2160
+    },
+    {
+      "timestamp": "2026-11-12T12:47:19.471830985+01:00",
+      "winner": [
+        "grzybke",
+        "Alpinus4",
+        "muhah",
+        "j",
+        "Bixkog",
+        "goovie"
+      ],
+      "loser": [
+        "hypys",
+        "Spawek",
+        "Dragon",
+        "Bania",
+        "Status"
+      ],
+      "scale": "Even",
+      "duration": 2100
     }
   ]
 }
