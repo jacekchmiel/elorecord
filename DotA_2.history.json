@@ -2834,38 +2834,38 @@
       "scale": "Even",
       "duration": 3720,
       "tags": {
-        "muhah": {
-          "role": "Carry"
+        "grzybke": {
+          "role": "Support"
         },
         "goovie": {
-          "role": "Core"
-        },
-        "j": {
           "role": "Core"
         },
         "Alpinus4": {
           "role": "Support"
         },
-        "hypys": {
-          "role": "Core"
-        },
         "Dragon": {
           "role": "Core"
-        },
-        "Bania": {
-          "role": "Support"
-        },
-        "grzybke": {
-          "role": "Support"
         },
         "Bixkog": {
           "role": "Support"
         },
-        "Status": {
-          "role": "Carry"
+        "j": {
+          "role": "Core"
         },
         "Spawek": {
           "role": "Support"
+        },
+        "hypys": {
+          "role": "Core"
+        },
+        "muhah": {
+          "role": "Carry"
+        },
+        "Bania": {
+          "role": "Support"
+        },
+        "Status": {
+          "role": "Carry"
         }
       }
     },
@@ -2889,26 +2889,11 @@
       "scale": "Advantage",
       "duration": 4920,
       "tags": {
-        "grzybke": {
-          "role": "Core"
-        },
-        "muhah": {
-          "role": "Core"
-        },
-        "goovie": {
-          "role": "Carry"
-        },
         "Dragon": {
           "role": "Support"
         },
-        "Status": {
+        "muhah": {
           "role": "Core"
-        },
-        "hypys": {
-          "role": "Core"
-        },
-        "j": {
-          "role": "Support"
         },
         "Spawek": {
           "role": "Carry"
@@ -2919,8 +2904,23 @@
         "Bania": {
           "role": "Support"
         },
+        "j": {
+          "role": "Support"
+        },
+        "grzybke": {
+          "role": "Core"
+        },
         "Alpinus4": {
           "role": "Support"
+        },
+        "hypys": {
+          "role": "Core"
+        },
+        "Status": {
+          "role": "Core"
+        },
+        "goovie": {
+          "role": "Carry"
         }
       }
     },
@@ -2944,29 +2944,20 @@
       "scale": "Even",
       "duration": 4740,
       "tags": {
-        "Bania": {
-          "role": "Support"
-        },
         "Alpinus4": {
           "role": "Support"
         },
-        "j": {
-          "role": "Support"
-        },
-        "Spawek": {
-          "role": "Support"
+        "muhah": {
+          "role": "Core"
         },
         "hypys": {
           "role": "Core"
         },
-        "Status": {
-          "role": "Carry"
-        },
         "Bixkog": {
           "role": "Core"
         },
-        "muhah": {
-          "role": "Core"
+        "Status": {
+          "role": "Carry"
         },
         "Dragon": {
           "role": "Carry"
@@ -2976,6 +2967,15 @@
         },
         "grzybke": {
           "role": "Core"
+        },
+        "Spawek": {
+          "role": "Support"
+        },
+        "Bania": {
+          "role": "Support"
+        },
+        "j": {
+          "role": "Support"
         }
       }
     },
@@ -2999,16 +2999,25 @@
       "scale": "Even",
       "duration": 5520,
       "tags": {
-        "grzybke": {
-          "role": "Core"
-        },
         "Dragon": {
           "role": "Core"
         },
-        "Alpinus4": {
-          "role": "Carry"
+        "goovie": {
+          "role": "Support"
         },
         "hypys": {
+          "role": "Carry"
+        },
+        "j": {
+          "role": "Core"
+        },
+        "muhah": {
+          "role": "Support"
+        },
+        "grzybke": {
+          "role": "Core"
+        },
+        "Alpinus4": {
           "role": "Carry"
         },
         "Bixkog": {
@@ -3021,15 +3030,6 @@
           "role": "Core"
         },
         "Bania": {
-          "role": "Support"
-        },
-        "goovie": {
-          "role": "Support"
-        },
-        "j": {
-          "role": "Core"
-        },
-        "muhah": {
           "role": "Support"
         }
       }
@@ -3054,11 +3054,26 @@
       "scale": "Even",
       "duration": 1794438540,
       "tags": {
+        "Alpinus4": {
+          "role": "Core"
+        },
+        "Bixkog": {
+          "role": "Carry"
+        },
+        "Status": {
+          "role": "Support"
+        },
         "Spawek": {
           "role": "Core"
         },
-        "Alpinus4": {
+        "hypys": {
           "role": "Core"
+        },
+        "Bania": {
+          "role": "Carry"
+        },
+        "goovie": {
+          "role": "Carry"
         },
         "muhah": {
           "role": "Support"
@@ -3066,26 +3081,11 @@
         "Dragon": {
           "role": "Core"
         },
-        "grzybke": {
-          "role": "Support"
-        },
-        "Bixkog": {
-          "role": "Carry"
-        },
         "j": {
           "role": "Support"
         },
-        "goovie": {
-          "role": "Carry"
-        },
-        "hypys": {
-          "role": "Core"
-        },
-        "Status": {
+        "grzybke": {
           "role": "Support"
-        },
-        "Bania": {
-          "role": "Carry"
         }
       }
     },
@@ -3109,11 +3109,23 @@
       "scale": "Advantage",
       "duration": 4020,
       "tags": {
+        "goovie": {
+          "role": "Support"
+        },
+        "Alpinus4": {
+          "role": "Carry"
+        },
         "grzybke": {
           "role": "Support"
         },
-        "Status": {
-          "role": "Support"
+        "Spawek": {
+          "role": "Core"
+        },
+        "j": {
+          "role": "Core"
+        },
+        "Dragon": {
+          "role": "Core"
         },
         "Bania": {
           "role": "Support"
@@ -3121,26 +3133,14 @@
         "Bixkog": {
           "role": "Core"
         },
-        "Dragon": {
-          "role": "Core"
-        },
-        "goovie": {
-          "role": "Support"
-        },
         "muhah": {
           "role": "Core"
         },
         "hypys": {
           "role": "Carry"
         },
-        "Spawek": {
-          "role": "Core"
-        },
-        "Alpinus4": {
-          "role": "Carry"
-        },
-        "j": {
-          "role": "Core"
+        "Status": {
+          "role": "Support"
         }
       }
     },
@@ -3167,16 +3167,22 @@
         "grzybke": {
           "role": "Support"
         },
+        "Status": {
+          "role": "Core"
+        },
         "Alpinus4": {
           "role": "Support"
+        },
+        "hypys": {
+          "role": "Carry"
         },
         "goovie": {
           "role": "Core"
         },
-        "Status": {
+        "Bixkog": {
           "role": "Core"
         },
-        "j": {
+        "Dragon": {
           "role": "Support"
         },
         "muhah": {
@@ -3185,17 +3191,11 @@
         "Bania": {
           "role": "Carry"
         },
-        "Bixkog": {
-          "role": "Core"
-        },
         "Spawek": {
           "role": "Core"
         },
-        "Dragon": {
+        "j": {
           "role": "Support"
-        },
-        "hypys": {
-          "role": "Carry"
         }
       }
     },
@@ -3219,13 +3219,28 @@
       "scale": "Even",
       "duration": 3900,
       "tags": {
-        "Bixkog": {
-          "role": "Carry"
-        },
         "Status": {
           "role": "Support"
         },
+        "Dragon": {
+          "role": "Carry"
+        },
+        "muhah": {
+          "role": "Core"
+        },
+        "Bania": {
+          "role": "Core"
+        },
         "goovie": {
+          "role": "Support"
+        },
+        "Spawek": {
+          "role": "Support"
+        },
+        "Bixkog": {
+          "role": "Carry"
+        },
+        "hypys": {
           "role": "Support"
         },
         "Alpinus4": {
@@ -3234,22 +3249,7 @@
         "grzybke": {
           "role": "Core"
         },
-        "Dragon": {
-          "role": "Carry"
-        },
         "j": {
-          "role": "Core"
-        },
-        "Spawek": {
-          "role": "Support"
-        },
-        "Bania": {
-          "role": "Core"
-        },
-        "hypys": {
-          "role": "Support"
-        },
-        "muhah": {
           "role": "Core"
         }
       }
@@ -3274,38 +3274,38 @@
       "scale": "Even",
       "duration": 6000,
       "tags": {
-        "goovie": {
+        "grzybke": {
           "role": "Carry"
         },
-        "Alpinus4": {
-          "role": "Core"
-        },
-        "muhah": {
+        "Status": {
           "role": "Support"
         },
         "Bixkog": {
           "role": "Support"
         },
-        "Bania": {
-          "role": "Support"
-        },
-        "j": {
-          "role": "Core"
-        },
-        "grzybke": {
-          "role": "Carry"
-        },
         "Spawek": {
           "role": "Support"
         },
-        "Status": {
+        "Bania": {
           "role": "Support"
         },
         "Dragon": {
           "role": "Core"
         },
+        "muhah": {
+          "role": "Support"
+        },
+        "j": {
+          "role": "Core"
+        },
         "hypys": {
           "role": "Core"
+        },
+        "Alpinus4": {
+          "role": "Core"
+        },
+        "goovie": {
+          "role": "Carry"
         }
       }
     },
@@ -3328,31 +3328,86 @@
       "scale": "Advantage",
       "duration": 2520,
       "tags": {
-        "goovie": {
-          "role": "Support"
+        "j": {
+          "role": "Core"
         },
         "Dragon": {
           "role": "Support"
         },
+        "hypys": {
+          "role": "Carry"
+        },
         "grzybke": {
           "role": "Support"
         },
-        "Spawek": {
-          "role": "Core"
-        },
         "Alpinus4": {
-          "role": "Carry"
-        },
-        "hypys": {
           "role": "Carry"
         },
         "Bixkog": {
           "role": "Core"
         },
+        "Spawek": {
+          "role": "Core"
+        },
+        "goovie": {
+          "role": "Support"
+        },
         "muhah": {
           "role": "Support"
         },
         "Bania": {
+          "role": "Core"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-11-12T22:28:19.661802751+01:00",
+      "winner": [
+        "goovie",
+        "Bixkog",
+        "Dragon",
+        "j",
+        "Alpinus4",
+        "hypys"
+      ],
+      "loser": [
+        "Bania",
+        "grzybke",
+        "Status",
+        "Spawek",
+        "muhah"
+      ],
+      "scale": "Advantage",
+      "duration": 3240,
+      "tags": {
+        "muhah": {
+          "role": "Support"
+        },
+        "Bixkog": {
+          "role": "Support"
+        },
+        "Dragon": {
+          "role": "Core"
+        },
+        "Spawek": {
+          "role": "Support"
+        },
+        "goovie": {
+          "role": "Support"
+        },
+        "Alpinus4": {
+          "role": "Core"
+        },
+        "hypys": {
+          "role": "Carry"
+        },
+        "grzybke": {
+          "role": "Core"
+        },
+        "Bania": {
+          "role": "Carry"
+        },
+        "Status": {
           "role": "Core"
         },
         "j": {
